@@ -193,7 +193,7 @@ Look for issues labeled `good first issue` - these are beginner-friendly.
 ## Questions?
 
 - Open a [Discussion](https://github.com/Ahmad-younas/react-upload-optimizer/discussions) for questions
-- Check existing [Issues](https://github.com/Ahmad-younas/react-upload-optimizer/issues) first
+- Check existing [Issues](https://github.com/Ahmad-younas/react-upload-optimizer/issues) for bug reports
 - Be respectful and patient
 
 ## Recognition
