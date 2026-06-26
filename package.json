@@ -40,13 +40,13 @@
   ],
   "author": "Muhammad Ahmad Younas",
   "license": "MIT",
-  "homepage": "https://github.com/yourusername/react-upload-optimizer#readme",
+  "homepage": "https://github.com/Ahmad-younas/react-upload-optimizer#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/react-upload-optimizer.git"
+    "url": "git+https://github.com/Ahmad-younas/react-upload-optimizer.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/react-upload-optimizer/issues"
+    "url": "https://github.com/Ahmad-younas/react-upload-optimizer/issues"
   },
   "engines": {
     "node": ">=16",
@@ -62,6 +62,6 @@
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "tsup": "^8.5.1",
-    "typescript": "^6.0.3"
+    "typescript": "^5.9.3"
   }
 }
