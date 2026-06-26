@@ -13,7 +13,7 @@ By participating in this project, you agree to abide by our Code of Conduct. Ple
 1. Fork this repository to your GitHub account
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/yourusername/react-upload-optimizer.git
+   git clone https://github.com/YOUR_USERNAME/react-upload-optimizer.git
    cd react-upload-optimizer
    ```
 
@@ -192,8 +192,8 @@ Look for issues labeled `good first issue` - these are beginner-friendly.
 
 ## Questions?
 
-- Open a [Discussion](https://github.com/yourusername/react-upload-optimizer/discussions) for questions
-- Check existing [Issues](https://github.com/yourusername/react-upload-optimizer/issues) first
+- Open a [Discussion](https://github.com/Ahmad-younas/react-upload-optimizer/discussions) for questions
+- Check existing [Issues](https://github.com/Ahmad-younas/react-upload-optimizer/issues) first
 - Be respectful and patient
 
 ## Recognition

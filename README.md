@@ -6,7 +6,7 @@ A lightweight, zero-dependency React library for optimizing image uploads with c
 
 [![npm version](https://img.shields.io/npm/v/react-upload-optimizer.svg)](https://www.npmjs.com/package/react-upload-optimizer)
 [![npm downloads](https://img.shields.io/npm/dm/react-upload-optimizer.svg)](https://www.npmjs.com/package/react-upload-optimizer)
-[![license](https://img.shields.io/npm/l/react-upload-optimizer.svg)](https://github.com/yourusername/react-upload-optimizer/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/react-upload-optimizer.svg)](https://github.com/Ahmad-younas/react-upload-optimizer/blob/main/LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18+-61dafb.svg)](https://reactjs.org/)
 
@@ -615,6 +615,6 @@ Built with ❤️ using:
 
 **[⬆ back to top](#react-upload-optimizer)**
 
-If you find this package useful, please consider giving it a ⭐️ on [GitHub](https://github.com/yourusername/react-upload-optimizer)!
+If you find this package useful, please consider giving it a ⭐️ on [GitHub](https://github.com/Ahmad-younas/react-upload-optimizer)!
 
 </div>

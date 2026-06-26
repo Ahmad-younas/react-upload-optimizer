@@ -524,8 +524,8 @@ npx tsc --noEmit
 
 ## Getting Help
 
-- **Questions:** Open a [Discussion](https://github.com/yourusername/react-upload-optimizer/discussions)
-- **Bugs:** Open an [Issue](https://github.com/yourusername/react-upload-optimizer/issues)
+- **Questions:** Open a [Discussion](https://github.com/Ahmad-younas/react-upload-optimizer/discussions)
+- **Bugs:** Open an [Issue](https://github.com/Ahmad-younas/react-upload-optimizer/issues)
 - **Contributions:** Read [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---

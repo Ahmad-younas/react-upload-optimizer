@@ -39,5 +39,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Customizable labels and button text
 - Support for all modern browsers
 
-[1.0.1]: https://github.com/yourusername/react-upload-optimizer/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/yourusername/react-upload-optimizer/releases/tag/v1.0.0
+[1.0.1]: https://github.com/Ahmad-younas/react-upload-optimizer/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/Ahmad-younas/react-upload-optimizer/releases/tag/v1.0.0
