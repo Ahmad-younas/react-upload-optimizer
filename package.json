@@ -1,0 +1,67 @@
+{
+  "name": "react-upload-optimizer",
+  "version": "1.0.1",
+  "description": "A lightweight React package for optimizing image uploads with compression, resizing, preview, and TypeScript support.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format esm,cjs --dts --clean",
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "upload",
+    "image",
+    "image-compression",
+    "image-optimization",
+    "image-resize",
+    "webp",
+    "file-upload",
+    "drag-and-drop",
+    "typescript",
+    "optimization",
+    "compress",
+    "resize"
+  ],
+  "author": "Muhammad Ahmad Younas",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/react-upload-optimizer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/react-upload-optimizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/react-upload-optimizer/issues"
+  },
+  "engines": {
+    "node": ">=16",
+    "npm": ">=8"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tsup": "latest",
+    "typescript": "latest"
+  }
+}
