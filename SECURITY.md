@@ -19,7 +19,7 @@ We take security vulnerabilities seriously. If you discover a security issue, pl
 
 Instead, please report them via email to:
 
-**[Your Email Address]**
+**ahmadyounas2k18@gmail.com**
 
 Include the following information:
 
